@@ -1,0 +1,49 @@
+.card{
+    border: 2px solid lightgray;
+    border-radius: 20px;
+    width: 500px;
+    height: auto;
+}
+
+.card-img{
+    height: auto;
+    width: 500px;
+    border-radius: 20px;
+}
+
+.material-symbols-outlined {
+padding: 0 15px;
+color: rgb(90, 90, 90);
+}
+
+.subs-txt {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(90, 90, 90);
+    padding: 5px 25px;
+}
+
+.subs-head {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    padding: 0 25px;
+}
+
+.detail-txt {
+    padding: 3px 25px;
+    font-size: 18px;
+    color: rgb(85, 85, 85);
+}
+
+.details-btn {
+    background-color: white;
+    color: rgb(60, 60, 222);
+    border: 2px solid lightgray;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.button {
+    padding: 20px 30px;
+}
